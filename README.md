@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a web development project<br>I'm looking for help with Backend Programming<br>I'm currently polishing my skills in linux.
+I'm currently working on a cloud development project<br>I'm looking for help with Backend Programming<br>I'm currently polishing my skills in linux.
 
 
 ## 🌐 Socials:
