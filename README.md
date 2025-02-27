@@ -52,7 +52,17 @@
 
 ---
 
+
 🚀 **Profile Visits:**  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Omixo&icon=0&color=6" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Omixo/&count_bg=%237D00FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Profile Views" />
 </p>
+
+---
+
+### Made with ❤️ by **Omkar Swami** 🚀🔥  
+
+---
+
+
+
