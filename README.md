@@ -20,7 +20,7 @@
 ## ⚔️ Tech Stack of the Bloodline
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,reactnative,js,ts,mongodb,mysql,postgres,java,spring,linux,git,github,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,redux,reactnative,js,ts,mongodb,mysql,linux,git,github,aws,gcp" />
 </p>
 
 ---
