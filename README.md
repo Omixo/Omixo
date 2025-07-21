@@ -62,6 +62,10 @@
 - 🧠 Building logic through real-world React & Node.js projects
 
 ---
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Omkar%20Swami-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/-0alluomi55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](alluomi55@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
