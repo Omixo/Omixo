@@ -1,69 +1,68 @@
-<h1 align="center">Hi, I'm Omkar 👋</h1>
+---
 
 <p align="center">
-  MERN Stack Developer | Learning Java ☕ | Building Clean UI & Smart Logic 💡
+  <img src="rise.gif" alt="Rise" width="100%">
+  <br />
+  <strong>“Why do we fall, Bruce? So we can learn to pick ourselves up.”</strong>
+</p>
+
+<h1 align="center">Hey there, I'm Omkar 👋</h1>
+
+<p align="center">
+  Passionate Developer | React & Node.js | Java Learner | Anime & WWE Fan
 </p>
 
 ---
 
-### 💼 Tech Stack
+## 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, Postman, VSCode
+- **Learning:** Java
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Featured Projects
 
-#### 🔐 Vaultify
-> A secure document verification platform for HRs. Upload, verify & manage employee documents with Multer, JWT, and MongoDB.
+### 🛒 E-Commerce Store (React + Redux + FakeStore API)
+- Built a stylish e-commerce app with Redux-Saga for managing cart and product actions
+- Integrated [FakeStore API](https://fakestoreapi.com/) for dynamic product data
+- Responsive layout, product filtering, and modern cart UI
+- [🔗 GitHub Repo](https://github.com/Omixo/e-commerce)
 
-- MERN Stack
-- Document Upload (Multer)
-- JWT Authentication
-- Admin View & HR Controls  
-🔗 [View Code](https://github.com/Omixo/vaultify)
+### 💰 Expense Tracker (React + Tailwind + Vite)
+- Manage income and expenses with a beautiful dark-mode UI
+- LocalStorage support, animated transitions via Framer Motion
+- Filterable transaction history and total balance tracking
+- [🔗 GitHub Repo](https://github.com/Omixo/expense-tracker)
 
----
+### 🔐 Vaultify – Document Verification System
+- MERN-based system for HR to verify employee documents securely
+- File uploads via Multer with MongoDB for structured storage
+- JWT-authenticated access for HR/Admin verification
+- [🔗 GitHub Repo](https://github.com/Omixo/vaultify)
 
-#### 🛒 E-Commerce App
-> A fully functional e-commerce app with product catalog, cart operations, and responsive UI.
+### ❓ JavaScript Quiz App
+- Interactive quiz platform built using vanilla JS
+- Score tracking and timed sessions with sleek design
+- Great for learning fundamentals of DOM manipulation and logic
+- [🔗 GitHub Repo](https://github.com/Omixo/Js-Quiz-App)
 
-- React + Node + MongoDB
-- Redux for state management
-- REST API integration
-- Clean UI with Tailwind  
-🔗 [View Code](https://github.com/Omixo/YOUR_ECOMMERCE_REPO)
-
----
-
-#### 💸 Expense Tracker
-> Track your daily expenses. Built using React & Vite with dark mode, animations, and localStorage.
-
-- Add/Edit/Delete transactions
-- LocalStorage-based persistence
-- Responsive Design + Framer Motion  
-🔗 [View Code](https://github.com/Omixo/YOUR_EXPENSE_TRACKER_REPO)
+### 📱 Next.js Portfolio (Coming Soon)
+- Rebuilding my portfolio with **Next.js** for better SEO and performance
+- Will include project showcases, blogs, and resume download
 
 ---
 
-### 📈 GitHub Stats
+## ⚡ Fun Facts
+
+- 🔄 Currently learning **Java** to expand backend knowledge
+- 🎬 Huge fan of Batman, Anime, and WWE (Bloodline 4 Life!)
+- 🧠 Building logic through real-world React & Node.js projects
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omixo&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omixo&theme=radical" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
-
----
-
-### 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-Omkar%20Swami-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-alluomi55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:alluomi55@gmail.com)
-
